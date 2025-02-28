@@ -1,0 +1,13 @@
+Package: mypackage
+Architecture: all
+Version: 1.0
+Maintainer: Nama Anda <email@domain.com>
+Depends: bash
+Filename: ./mypackage.deb
+Size: 804
+MD5sum: a3c3dc15d00d74756a53daa7b2252603
+SHA1: e7f29560b9a2b469ed071047e1d4093a0ec59b3f
+SHA256: 2b399fb4375649e54a63e1b754f6b4f2f3b7e242c37f5b64c29436639ddfc1cb
+SHA512: 248543e3f04917e17d06d3a3fc075d801dd088c00e3e2b2037d8de65d27bff1aef9c6748ce128a999c6930d34880792c04b9c3a24c2aebff6b8de2adbdcd13d0
+Description: Ini adalah package contoh untuk Termux.
+
